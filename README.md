@@ -8,3 +8,4 @@
 
 # week03 day1 callback 함수
 
+https://youtu.be/z8nJoiYo1XM
